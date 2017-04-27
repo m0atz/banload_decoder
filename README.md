@@ -8,8 +8,6 @@ The code is written in Java. This isn't my favourite language, but since the bad
 
     $ javac decoder.java
     
-This will produce the decoder.class file, also included in this repo.
-
 ## Running
 The code can be invoke from the command line, taking one command line argument which is the filename to be examined:
 
