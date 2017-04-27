@@ -9,7 +9,7 @@ The code is written in Java. This isn't my favourite language, but since the bad
     $ javac decoder.java
     
 ## Running
-The code can be invoke from the command line, taking one command line argument which is the filename to be examined:
+The code can be invoked from the command line, taking one command line argument which is the filename to be examined:
 
     $ java decoder file.name
     
