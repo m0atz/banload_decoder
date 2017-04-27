@@ -17,6 +17,9 @@ The code can be invoke from the command line, taking one command line argument w
     
 This will then output the decoded strings to your console window. 
 
+## Walkthrough
+Additional information can be found on my website https://colin.guru/index.php?title=Advanced_Banload_Analysis or alternatively watch my short video explanation including a sample analysis https://www.youtube.com/watch?v=ppTwsWIFWPA
+
 ## Licence
 Released under MIT Licence. Enjoy.
 
